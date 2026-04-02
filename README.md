@@ -96,6 +96,12 @@ http://localhost:5173
 
 ---
 
+<img width="1895" height="864" alt="image" src="https://github.com/user-attachments/assets/cc821468-66c6-4495-82bf-dfefaa559010" />
+
+<img width="1899" height="824" alt="image" src="https://github.com/user-attachments/assets/53b96233-4d8f-40f8-acbd-c7f8af028821" />
+
+
+
 ## 🙌 Author
 
 Kishan Kumar
