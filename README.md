@@ -1,16 +1,102 @@
-# React + Vite
+# 🚀 React Assignment – Figma to Responsive UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based implementation of a Figma design, built as part of an internship assignment. It focuses on delivering a clean, responsive, and pixel-perfect user interface using modern frontend practices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Objective
 
-## React Compiler
+To convert the provided Figma design into a functional React application with:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Accurate UI implementation
+* Responsive design across devices
+* Clean and maintainable code
+* Reusable components
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React (Vite)
+* Tailwind CSS
+* Docker
+
+---
+
+## ✨ Features
+
+* Pixel-perfect UI based on Figma
+* Fully responsive (mobile, tablet, desktop)
+* Reusable component-based architecture
+* Clean spacing, typography, and layout
+* Dockerized setup for easy execution
+
+---
+
+## 📂 Project Structure
+
+```
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── App.jsx
+├── public/
+├── Dockerfile
+├── .dockerignore
+├── package.json
+└── README.md
+```
+
+---
+
+## 🐳 Run with Docker
+
+### Build Image
+
+```
+docker build -t Elementum .
+```
+
+### Run Container
+
+```
+docker run -p 3000:3000 Elementum
+```
+
+### Open in Browser
+
+```
+http://localhost:3000
+```
+
+---
+
+## 💻 Run Locally
+
+```
+npm install
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:5173
+```
+
+---
+
+
+## 🚀 Highlights
+
+* Clean and scalable code structure
+* Focus on UI accuracy and responsiveness
+* Modern frontend practices using Vite
+* Easy setup using Docker
+
+---
+
+## 🙌 Author
+
+Kishan Kumar
+B.Tech IT | Full Stack Developer
